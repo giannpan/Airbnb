@@ -1,4 +1,4 @@
-# 🏠 Airbnb
+# 🏠 Airbnb in Athens
 
 Tourism is Greece’s most important economic activity, accounting for at least a fifth of the country’s economy. In that frame, the short - term rental market is booming in Greece with an estimated 13000 properties in Athens available to visitors via Airbnb, while in the summer of 2015, there were just 2,000 properties listed on the specific platform. Also this industry is calculated to generate 3.3 billion euros annually into the Greek economy.
 
@@ -25,12 +25,7 @@ Libraries used:
 2) Dash
 
 ## Conclusions
-
-
 [Presentation Airbnb.pdf](https://github.com/giannpan/Airbnb/files/14379162/Presentation.Airbnb.pdf)
-
-https://github.com/giannpan/Airbnb/blob/main/Presentation%20Airbnb.pdf
-
 
 
 
