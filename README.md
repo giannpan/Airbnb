@@ -16,7 +16,6 @@ c) The average income of an appartment listed on Airbnb in Athens is $8780
 d) The most important features of the guests in order to give a good rating is the Location, the Cleanliness and the distance from Acropolis
 
 ## Software:
-
 ⚙️Programming Language : Python
 
 Libraries used:
